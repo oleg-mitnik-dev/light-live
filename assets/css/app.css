@@ -61,7 +61,7 @@ h3 {
 }
 #light img,
 #light svg {
-  @apply w-8;
+  @apply w-8 h-8;
 }
 #light .meter {
   @apply flex h-12 overflow-hidden text-base bg-slate-300 rounded-lg mb-8;

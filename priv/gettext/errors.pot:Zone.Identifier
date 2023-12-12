@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://online.pragmaticstudio.com/
+HostUrl=https://pragmaticstudio.s3.amazonaws.com/courses/liveview-2ed/pragstudio-liveview-2ed-starter-code.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJAAJKQ5ECFOAWF2Q%2F20231211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231211T134635Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=399187ef7546e6745b4d9957f9f1bfd8308100d9a10991bd85288b5e90732d3a
